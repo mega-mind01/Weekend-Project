@@ -57,3 +57,31 @@ body{
 .hist p{
     color: #58b6d5;
 }
+
+.kard{
+    background-color: white;
+}
+
+.num{
+    width: 50px;
+    height: 50px;
+    background-color: #58b6d5;
+    border-radius: 100%;
+}
+
+.chg .fa{
+    color: #58b6d5;
+}
+
+.timg{
+    height: 50px;
+    width: 50px;
+}
+
+.zad .fa{
+    color: #58b6d5;
+}
+
+.far .text-center, .far.fa{
+    color: gray;
+}
