@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    box-shadow: 0px 3px 12px 0px rgba(0, 0, 0, 0.75);
+    z-index: 999999;
+}
+
+.navvb {
+    padding: 0;
+}
+
+.navbar-brand img, .footer img{
+    width: 130px;
+}
+
+.navbar-nav a{
+    color: black;
+}
+
+.cta{
+    border: solid #58b6d5;
+    color: #58b6d5;
+    background-color: transparent;
+}
+
+.service .fa{
+    color: #58b6d5;
+}
+
+.resize{
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+    max-height: 300px;
+}
+
+.wrap img{
+    width: 80px;
+    height: 80px;
+    margin: 15px;
+}
+
+.hist p{
+    color: #58b6d5;
+}
